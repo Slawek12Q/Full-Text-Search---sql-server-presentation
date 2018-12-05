@@ -1,1 +1,1 @@
-# Full Text Search - sql server presentation
+Presentation describing the mechanism of full-text search. In the presentation I included a database which I use to present examples, most important concepts and a detailed description of the most important mechanisms. The whole project is made in Polish.
